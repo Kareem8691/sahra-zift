@@ -1,0 +1,253 @@
+body {
+    font-size: 15pt;
+    background-image: url(/1675793947215.png);
+    background-size: cover
+}
+*{
+  padding: 0;
+  margin: 0;
+font-family: sans-serif;
+
+  }
+  ul li {
+  display: inline-block;
+  }
+
+ul a{
+  display: inline-block;
+  color: white ;
+  text-decoration:none;
+ margin: 0 1px;
+ position: relative;
+ margin-left:25px;
+ margin-top: 20px;
+ transition:.5s;
+  
+}
+ul  a:hover{
+  transform:scale(1.5);
+  text-decoration: underline;
+  
+}
+.header h1{
+  
+  text-align: left;
+  position: absolute;
+  margin-top: 40px;
+  margin-left:85px;
+  color: #FFFFFF;
+  font-size:80px;
+  transition:0.3s;
+  
+}
+
+.header h1:hover{
+    transform: translateY(-10px);
+}
+.text p{
+  text-align:center;
+  font-size: 15px;
+  color: #FFFFFF;
+  position: absolute;
+  margin-top: 135px;
+  margin-left: 2px;
+}
+
+
+.content a{
+  text-decoration:none;
+  background: white ;
+  color: black ;
+ padding: 5px 10px ;
+  border-radius:20px;
+       position: absolute;
+  margin-top: 195px;
+  margin-left: 150px;
+  border-radius: 10px;
+  transition:.5s;
+  
+}
+.content a:hover{
+
+  transform:scale(1.1);
+}
+  .img1 img{
+  
+  height:180px;
+  width: 160px;
+      position: absolute;
+  margin-top: 250px;
+  margin-left: 20px;
+  border-radius:10px;
+  transition:.5s;
+  box-shadow: 10 10 10 black;
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5)
+
+  }
+  .img1 img:hover{
+    transform: translateY(-10px);
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5)
+
+
+  }
+  .p1 p{
+    position: absolute ;
+     margin-top :275px;
+       margin-left :28px;
+       font-size: 10px;
+       color: #828181;
+      transition:.5s;
+      
+}
+  .p1 p:hover {
+    transform: translateY(-10px);
+
+  }
+  .img2 img{
+height:180px;
+  width: 160px;
+      position: absolute;
+  margin-top: 250px;
+  margin-left: 200px;
+  border-radius:10px;
+  transition:.5s;
+  box-shadow: 10 10 10 black;
+box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5)
+
+
+  }
+  .img2 img:hover{
+  transform: translateY(-10px);
+box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5)
+
+
+  }
+  
+  
+  .p2 p{
+    position: absolute ;
+     margin-top :275px;
+       margin-left :208px;
+       font-size: 10px;
+            color: #828181;
+      transition:.5s;
+}
+    .p2 p:hover{
+  transform: translateY(-10px);
+
+
+  }
+  
+  
+  
+    .img3 img{
+  
+  height:180px;
+  width: 160px;
+      position: absolute;
+  margin-top: 470px;
+  margin-left: 20px;
+  border-radius:10px;
+  transition:.5s;
+  box-shadow: 10 10 10 black;
+
+box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5)
+
+  }
+  .img3 img:hover{
+    transform: translateY(-10px);
+
+box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5)
+
+  }
+  .p3 p{
+    position: absolute ;
+     margin-top :495px;
+       margin-left :28px;
+       font-size: 10px;
+         color: #828181;
+
+      transition:.5s;
+}
+  .p3 p:hover {
+    transform: translateY(-10px);
+    
+
+  }
+  
+  
+    .img4 img{
+height:180px;
+  width: 160px;
+      position: absolute;
+  margin-top: 470px;
+  margin-left: 200px;
+  border-radius:10px;
+  transition:.5s;
+  box-shadow: 10 10 10 black;
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5)
+
+  }
+  .img4 img:hover{
+  transform: translateY(-10px);
+box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5)
+
+
+  }
+    .p4 p{
+    position: absolute ;
+     margin-top :495px;
+       margin-left :208px;
+       font-size: 10px;
+       color: #828181;
+
+      transition:.5s;
+}
+    .p4 p:hover{
+  transform: translateY(-10px);
+
+box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5)
+
+  }
+  .h1 h5{
+    color: ghostwhite;
+    position: absolute ;
+     margin-top :478px;
+       margin-left :28px;
+    
+      transition:.5s;
+}
+    
+  
+    .h2 h5{
+    color: ghostwhite;
+    position: absolute ;
+     margin-top :478px;
+       margin-left :208px;
+    
+      transition:.5s;
+}
+  
+    .h3 h5{
+    color: ghostwhite;
+    position: absolute ;
+     margin-top :258px;
+       margin-left :28px;
+    
+      transition:.5s;
+}
+
+  
+    .h4 h5{
+    color: ghostwhite;
+    position: absolute ;
+     margin-top :258px;
+       margin-left :208px;
+    
+      transition:.5s;
+}
+  
+  
+  
+  
+  
